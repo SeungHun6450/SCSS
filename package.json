@@ -1,0 +1,25 @@
+{
+  "name": "scss",
+  "version": "1.0.0",
+  "description": "Scss 문법을 통해 표준 css문법보다 쉽고 강력한 기능을 가지고 있기에 사용한다.\r 하지만 브라우저에서 실제로 동작할 수 있는 것은 표준의 css뿐이므로 Sass문법을 css 문법으로 변환(컴파일)을 해줘야 한다.\r css의 전처리 도구라고 한다.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeungHun6450/SCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeungHun6450/SCSS/issues"
+  },
+  "homepage": "https://github.com/SeungHun6450/SCSS#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.51.0"
+  }
+}

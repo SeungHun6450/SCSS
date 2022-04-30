@@ -1,0 +1,11 @@
+$color: royalblue;
+$background-color: orange;
+$font-size: 60px;
+
+.container {
+  h1 {
+    color: $color;
+    background-color: $background-color;
+    font-size: $font-size;
+  }
+}
